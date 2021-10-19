@@ -1,3 +1,3 @@
 # C
-Projects with C Language ( University related or personal projects )
+University related exercises and projects - Personal projects
 
