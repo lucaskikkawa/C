@@ -1,3 +1,3 @@
 # C
-University related Exercises
+University related Exercises and Projects
 
