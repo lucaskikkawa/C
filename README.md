@@ -1,8 +1,6 @@
 # C
 University related Exercises and Projects
 
-Disciplina Programação Estruturada:
-
 MCTA028-15 Programação Estruturada
 TPI 2-2-4
 RECOMENDAÇÃO: Processamento da Informação
