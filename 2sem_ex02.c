@@ -26,3 +26,5 @@ void pares(int num){
         };
     }
 }
+
+int nome [2][3];
